@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gk0d/gk0d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me
-- QQ：MjA4ODUwNjExNQ==
+- Email：shiwk177@163.com
 - Blog: [http://www.gk0d.top/](http://www.gk0d.top/)
-- web安全|java安全|安卓逆向|渗透测试|代码审计|
