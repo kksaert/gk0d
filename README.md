@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 # About Me
 - Email：shiwk177@163.com
 - Blog: [http://www.gk0d.top/](http://www.gk0d.top/)
-![image-20221111193300170](https://typora-1306500142.cos.ap-beijing.myqcloud.com/picture/202212142027916.png)
+
