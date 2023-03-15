@@ -7,10 +7,12 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
 ## Hi there 👋
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gk0d&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" width="420">
+-->
 
 ### About Me
 - 📫 Email: shiwk177@163.com
