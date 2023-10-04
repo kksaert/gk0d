@@ -16,11 +16,8 @@
 -->
 
 - 👋 Hi, I’m @gk0d
-- 👀 I’m interested in Web Security and Program Analysis.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me: This is my blog http://www.gk0d.top/
 - 📫 Email: shiwk177@163.com
+-  I’m currently learning fuzzing,program analysis,ML
 
 
 
